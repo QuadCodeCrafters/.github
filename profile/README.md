@@ -1,11 +1,12 @@
 <p align="center">
   
   <img width="120" alt="304778802_418138250302865_3903839059240116346_n-removebg-preview (1)" src="https://github.com/user-attachments/assets/a9876f07-50ce-45fb-a04c-5da59bca516b" />
-  <img src="https://github.com/user-attachments/assets/dfd4ae86-f62c-437f-bc13-75173e9b8116/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227" alt="Quad Code Crafters Logo" width="60" style="vertical-align: middle; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/fd23df47-ad79-4d62-9231-041321108f86" alt="Quad Code Crafters Logo" width="120">
+
 
 </p>
 
-<h1 align="left">
+<h1 align="center">
     Quad Code Crafters – Saliya Auto Care Digital Platforms
 </h1>
 
